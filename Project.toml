@@ -1,0 +1,6 @@
+authors = ["Erik Schnetter <schnetter@gmail.com>"]
+name = "IMEXExperiments"
+uuid = "9b24ccde-9f47-11e8-2ec4-0d62a0d529d3"
+version = "0.1.0"
+
+[deps]
