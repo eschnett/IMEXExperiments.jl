@@ -1,5 +1,5 @@
-`IMEXExperimets <https://github.com/eschnett/IMEXExperimets>`_
-==============================================================
+`IMEXExperiments <https://github.com/eschnett/IMEXExperiments>`_
+================================================================
 
 Experiment with IMEX ODE integrators. See the paper
 
