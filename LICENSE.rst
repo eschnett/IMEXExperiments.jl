@@ -1,4 +1,4 @@
-`The MIT License (MIT) <https://opensource.org/licenses/MIT>`__
+`The MIT License (MIT) <https://opensource.org/licenses/MIT>`_
 
 Copyright (c) 2018 Erik Schnetter
 
